@@ -4,7 +4,7 @@ A simple mod that will add a kill effect like a point blank game, no need to imp
 **Note**
 I will update this mod to support gta sa v2.00 fla (not AML) otherwise I'm not lazy.
 
-**Link**
+**SA Link Mod**
 https://safefileku.com/download/cQPTnq9e0EqC6eRV
 
 **Requried (Plugin)**
